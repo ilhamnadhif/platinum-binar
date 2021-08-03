@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "ilham",
+    "password": "Ilham12345",
+    "database": "suit-game",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "ilham",
+    "password": "Ilham12345",
+    "database": "suit-game",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "ocvqokxvxywikp",
+    "password": "fe87d07d2e1ec8443a6fe69b7c73e1e102fbc1aa14dae7ef93625484bfd6ce61",
+    "database": "d6pml24tpqjiho",
+    "host": "ec2-54-167-152-185.compute-1.amazonaws.com",
+    "dialect": "postgres",
+    "use_env_variable": "postgres://ocvqokxvxywikp:fe87d07d2e1ec8443a6fe69b7c73e1e102fbc1aa14dae7ef93625484bfd6ce61@ec2-54-167-152-185.compute-1.amazonaws.com:5432/d6pml24tpqjiho"
+  }
+}
